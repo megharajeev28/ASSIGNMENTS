@@ -121,6 +121,15 @@ Retrieval-Augmented Generation chatbot capable of answering questions from uploa
 - Flask Web Interface
 
 ---
+## 9. Live Applications
+
+### 🤖 RAG Chatbot
+
+**Live Demo:** (https://assignments-n5oq.onrender.com/)
+
+The chatbot allows users to upload PDF documents and ask questions using Retrieval-Augmented Generation (RAG) powered by semantic search and large language models.
+
+---
 
 # 🛠 Technologies Used
 
